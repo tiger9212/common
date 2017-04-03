@@ -1,6 +1,5 @@
 package com.zy.common.dao;
 
-import com.sun.tools.internal.xjc.runtime.ZeroOneBooleanAdapter;
 
 /**
  * Created by Magic on 2017/4/3.
@@ -16,7 +15,7 @@ public class QueryBase {
     private int start;
     //结束条数-- 后端计算 sql使用
     private int end;
-    
+
     public QueryBase(){
         this.pageSize = 20;
         this.currentPage = 1;
