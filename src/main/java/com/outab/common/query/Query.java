@@ -1,4 +1,4 @@
-package com.zy.common.dao;
+package com.outab.common.query;
 
 import java.io.Serializable;
 

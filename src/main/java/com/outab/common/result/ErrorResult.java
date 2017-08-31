@@ -1,4 +1,4 @@
-package com.zy.common.entity;
+package com.outab.common.result;
 
 import java.io.Serializable;
 
